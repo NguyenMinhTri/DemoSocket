@@ -1,0 +1,5 @@
+﻿  Client.cpp
+d:\technical\c++\socketserver\socketserver\client.cpp(21): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: see declaration of 'inet_addr'
+  SocketServer.vcxproj -> D:\Technical\C++\SocketServer\Debug\SocketServer.exe
+  SocketServer.vcxproj -> D:\Technical\C++\SocketServer\Debug\SocketServer.pdb (Full PDB)
